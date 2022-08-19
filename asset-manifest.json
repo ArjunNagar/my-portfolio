@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.154967ca.css",
+    "main.js": "/my-portfolio/static/js/main.f02c75a0.js",
+    "static/js/787.3c86a6c9.chunk.js": "/my-portfolio/static/js/787.3c86a6c9.chunk.js",
+    "static/media/quiz.jpg": "/my-portfolio/static/media/quiz.1db73a9cb2807bf1d9fe.jpg",
+    "static/media/country.jpg": "/my-portfolio/static/media/country.cffde8116b24d479a22a.jpg",
+    "static/media/movieapp.jpg": "/my-portfolio/static/media/movieapp.12dfc2417a97856cb2a7.jpg",
+    "static/media/notes.png": "/my-portfolio/static/media/notes.36340fcea3b6cb3c0d59.png",
+    "static/media/survey.jpg": "/my-portfolio/static/media/survey.a91594217142c49dd810.jpg",
+    "static/media/mypic.jpg": "/my-portfolio/static/media/mypic.e6c0506b292d2bddcc36.jpg",
+    "static/media/tanslator.png": "/my-portfolio/static/media/tanslator.cb6b59451e29bed7ca1e.png",
+    "static/media/cart.webp": "/my-portfolio/static/media/cart.6e6d440632b04e80f8e9.webp",
+    "static/media/login.webp": "/my-portfolio/static/media/login.96783f0a985510631173.webp",
+    "index.html": "/my-portfolio/index.html",
+    "main.154967ca.css.map": "/my-portfolio/static/css/main.154967ca.css.map",
+    "main.f02c75a0.js.map": "/my-portfolio/static/js/main.f02c75a0.js.map",
+    "787.3c86a6c9.chunk.js.map": "/my-portfolio/static/js/787.3c86a6c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.154967ca.css",
+    "static/js/main.f02c75a0.js"
+  ]
+}
