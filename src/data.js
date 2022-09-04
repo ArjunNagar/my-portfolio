@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "Movie App",
-    subtitle: "React",
+    title: "E-commerce App",
+    subtitle: "React and Redux",
     description:
-      "We all have our favourite movies and so this app let's user search movies and add their desired ones to favourites.",
-    image: require("./images/movieapp.jpg"),
-    link: "https://arjunnagar.github.io/basic-movie-app/",
+      "A simple yet elegant online shopping website made using one of the most popular state management libraries of React namely Redux. User can add any number of items upon which the count of the cart and it's items increase simultaneously.",
+    image: require("./images/emart.jpg"),
+    link: "https://arjunnagar.github.io/ecommerce-app/",
   },
   {
     title: "Search and Filter Countries",
@@ -65,4 +65,11 @@ export const projects = [
   },
 ];
 
-export const skills = ["HTML", "CSS", "JavaScript", "React"];
+export const skills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "Bootstrap",
+  "React",
+  "Redux",
+];
