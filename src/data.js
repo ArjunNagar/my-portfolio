@@ -29,7 +29,7 @@ export const projects = [
     description:
       "In this project I learnt CRUD operations in React. User can add a note and upon return it will be there since the notes are saved in Local Storage.",
     image: require("./images/notes.png"),
-    link: "https://arjunnagar.github.io/notes-app/",
+    link: "https://arjunnagar.github.io/notesapp2.0/",
   },
   {
     title: "Survey App",
